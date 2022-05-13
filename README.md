@@ -6,6 +6,6 @@
 ### 欢迎交流学习
 1. 在[答题区](https://github.com/liupengfei666/Android-Interview/issues)留下您的见解，帮助此项目不断完善，提高质量。
 2. 欢迎在[问题征集区](https://github.com/liupengfei666/Android-Interview/issues/1)留下你认为高质量的问题
-3. 后续考虑建立一个学习交流群，共同交流学习
+3. 欢迎加入学习交流QQ群**922155328**，共同交流学习
 
 ## 面试题整理汇总
